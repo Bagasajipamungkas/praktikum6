@@ -21,8 +21,13 @@ Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 - ubah(nama)
 - selesay
 
-# FlOWCHART  
+# FlOWCHART 
+![img.5](gambar/flowchart.jpeg) 
 
 # TAMPILAN PROGRAM
+![img.1](gambar/1.png)
+![img.2](gambar/2.png)
+![img.3](gambar/3.png)
 
 # OUTPUT PROGRAM
+![img.4](gambar/4.png)
